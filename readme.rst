@@ -3,10 +3,11 @@ Just.Ip
 ###################
 
 Anggota Kelompok :
--  `Muhammad Anas Alqoyyum - 24060117130082`_
--  `Taufiqurrahman Al Hammamy - 24060117130056`_
--  `Varian Muhammad Jatnika - 24060117140050`_
--  `Khoirunnisa Nurul Falah - 24060117140079`_
+
+-Muhammad Anas Alqoyyum - 24060117130082
+-Taufiqurrahman Al Hammamy - 24060117130056
+-Varian Muhammad Jatnika - 24060117140050
+-Khoirunnisa Nurul Falah - 24060117140079
 
 Username Login :
 admin@admin.com/123456
