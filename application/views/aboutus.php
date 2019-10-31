@@ -13,7 +13,7 @@
         <div class="card">
           <img class="card-img-top" src="<?php echo base_url('upload/agent/default.jpg') ?>" alt="Card image Anas">
           <div class="card-body">
-            <h5 class="card-title text-center">M. Anas Alqoyyum</h5>
+            <h5 class="card-title text-center">Muhammad Anas Alqoyyum</h5>
             <p class="card-text text-center">24060117130082</p>
           </div>
         </div>
